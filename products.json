@@ -1,0 +1,18 @@
+[
+  {
+    "id": "15a3c4db-e068-40ec-b971-5047f610e62a",
+    "name": "Golden Glow",
+    "price": 85.0,
+    "categories": "indoor plants",
+    "page": "goldenglow.html",
+    "image": "product-04.jpg"
+  },
+  {
+    "id": "a7878095-536b-4057-b634-418c097bff71",
+    "name": "Golden Glow",
+    "price": 90.0,
+    "categories": "indoor plant",
+    "page": "goldenglow.html",
+    "image": "product-04.jpg"
+  }
+]

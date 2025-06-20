@@ -1,0 +1,47 @@
+{
+  "lucy@gmail.com": {
+    "id": "153d8c7f-3bbc-4664-98a6-d328f78d7e9e",
+    "name": "Lucy",
+    "email": "lucy@gmail.com",
+    "password": "123Sta##"
+  },
+  "amelia@gmail.com": {
+    "id": "a1b2dcd4-500c-4c68-9533-75943adf09df",
+    "name": "amelia",
+    "email": "amelia@gmail.com",
+    "password": "123Sta##"
+  },
+  "Amelia@gmail.com": {
+    "id": "7dff90d9-673d-46ac-9b32-b91d36ac70c5",
+    "name": "Amelia",
+    "email": "Amelia@gmail.com",
+    "password": "123Sta##"
+  },
+  "King@gmail.com": {
+    "id": "38710734-19b7-4686-8d5d-cd7b76b6d463",
+    "name": "King",
+    "email": "King@gmail.com",
+    "password": "123Sta##"
+  },
+  "Mark34@gmail.com": {
+    "id": "4ba8b4cb-6cbc-40b9-82c0-4bc9764dfbfe",
+    "name": "Mark",
+    "email": "Mark34@gmail.com",
+    "password": "125Rta##",
+    "verified": true
+  },
+  "JustinDoe@gmail.com": {
+    "id": "6b8a0762-1656-4fde-8283-199e0f6726b4",
+    "name": "JUSTINDOE",
+    "email": "JustinDoe@gmail.com",
+    "password": "148Pra@@",
+    "verified": false
+  },
+  "Eke24@gmail.com": {
+    "id": "60b1419d-374e-42ce-ac96-74fb8965f3a1",
+    "name": "Eke",
+    "email": "Eke24@gmail.com",
+    "password": "146Ora$$",
+    "verified": true
+  }
+}
